@@ -1,0 +1,5 @@
+httpx
+pydantic
+jsonschema
+python-dotenv
+pydantic_settings
